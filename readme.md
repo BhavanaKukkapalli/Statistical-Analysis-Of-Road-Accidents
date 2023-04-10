@@ -1,4 +1,4 @@
-## Statistical Analysis Of Road Accidents
+# Statistical Analysis Of Road Accidents
 This is a database project aimed at providing statistical analysis of road accidents over a period of time. The objective of this project is to raise awareness among various hospital institutions, automobile manufacturers, and the public regarding the causes and consequences of road accidents.
 
 ### Tools and Techniques Used
